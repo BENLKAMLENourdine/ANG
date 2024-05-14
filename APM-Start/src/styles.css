@@ -1,4 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+
+body, html {
+  margin: 10px 10px;
+}
+
 div.card-header {
  font-size: large;
 }
